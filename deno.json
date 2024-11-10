@@ -1,11 +1,15 @@
 {
+  "name": "@windycat/deno-bridge",
+  "exports": "./main.ts",
+  "version": "0.0.1",
   "tasks": {
     "dev": "deno run --watch mod.ts"
   },
   "imports": {
     "@std/assert": "jsr:@std/assert@1"
   },
-    "deno.enable": true,
+  "deno.enable": true,
   "deno.lint": true,
   "deno.unstable": true
+  "license": "MIT",
 }
