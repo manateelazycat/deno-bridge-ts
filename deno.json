@@ -1,5 +1,5 @@
 {
-  "name": "deno-bridge",
+  "name": "@manateelazycat/deno-bridge",
   "exports": "./main.ts",
   "version": "0.0.1",
   "tasks": {
