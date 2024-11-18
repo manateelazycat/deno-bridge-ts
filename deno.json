@@ -1,5 +1,5 @@
 {
-  "name": "@windycat/deno-bridge",
+  "name": "deno-bridge",
   "exports": "./main.ts",
   "version": "0.0.1",
   "tasks": {
